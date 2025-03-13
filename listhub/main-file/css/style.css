@@ -345,7 +345,7 @@ button:focus,
   outline: none; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333f57;
+  color: #f2b2d1;
   font-family: 'Route 159 Bold'; }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -362,7 +362,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   font-family: 'Be Vietnam', 'sans-serif';
-  color: #808996;
+  color: #f2b2d1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -847,7 +847,7 @@ body {
   background-color: #fff !important; }
 
 .bg-dark {
-  background-color: #333f57 !important; }
+  background-color: #ec88bfc1 !important; }
 
 .bg-gray {
   background-color: #F5F7FC !important; }
@@ -859,7 +859,7 @@ body {
   background-image: none !important; }
 
 .bg-dark-opacity {
-  background-color: rgba(11, 11, 11, 0.1) !important; }
+  background-color: rgba(235, 114, 181, 0.877) !important; }
 
 .bg-fixed {
   background-attachment: fixed !important; }
@@ -899,7 +899,7 @@ body {
   background-color: #307CF3 !important; }
 
 .bg-8 {
-  background-color: #4267B2 !important; }
+  background-color: #f2b2d1 !important; }
 
 .bg-9 {
   background-color: #71c9f8 !important; }
@@ -933,7 +933,7 @@ body {
 
 .f-bg-rgb {
   background-color: rgba(66, 103, 178, 0.1) !important;
-  color: #4267B2 !important; }
+  color: #f2b2d1 !important; }
 
 .t-bg-rgb {
   background-color: rgba(113, 201, 248, 0.1) !important;
@@ -1454,7 +1454,7 @@ body {
 .theme-btn {
   font-weight: 600;
   font-size: 16px;
-  color: #333f57;
+  color: #f2b2d1;
   line-height: 48px;
   padding-left: 24px;
   padding-right: 24px;
@@ -1922,7 +1922,7 @@ body {
 .section-heading .sec__title {
   font-size: 36px;
   line-height: 50px;
-  color: #333f57;
+  color: #f2b2d1;
   margin-bottom: 18px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .section-heading .sec__title br {
@@ -1940,7 +1940,7 @@ body {
 
 .section-heading .sec__desc {
   font-size: 18px;
-  color: #808996;
+  color: #f2b2d1;
   font-weight: 500;
   line-height: 30px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2807,7 +2807,7 @@ div.datedropper {
     border-radius: 4px;
     margin-right: 2px;
     margin-left: 2px;
-    color: #808996;
+    color: #f2b2d1;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -2817,7 +2817,7 @@ div.datedropper {
     padding: 7px 13px;
     font-weight: 600; }
     .section-pagination .page-link:hover {
-      color: #333f57;
+      color: #f2b2d1;
       background-color: rgba(128, 137, 150, 0.1); }
     .section-pagination .page-link.page-link-active {
       background-color: #7b68ee;
@@ -2834,7 +2834,7 @@ div.datedropper {
   transition: all 0.3s;
   font-weight: 500; }
   .pagination-simple .pagination-simple-nav.active {
-    color: #333f57; }
+    color: #f2b2d1; }
 
 /*======== filter-bar =========*/
 .filter-bar {
