@@ -2036,7 +2036,7 @@ body {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  background: linear-gradient(270deg, #7b68ee, #9f8fff);
+  background: linear-gradient(270deg, #E78282, #E78282);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
