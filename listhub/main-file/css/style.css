@@ -1124,7 +1124,7 @@ body {
 }
 
 .bg-dark {
-  background-color: #FFD3D3 !important;
+  background-color: #FFF9F9 !important;
 }
 
 .bg-gray {
@@ -2502,7 +2502,7 @@ body {
 .section-heading .sec__title {
   font-size: 36px;
   line-height: 50px;
-  color: #f2b2d1;
+  color: black;
   margin-bottom: 18px;
 }
 
@@ -6795,7 +6795,7 @@ div.datedropper .picker .pick-lg-b li {
 .hero-heading .section-heading .sec__desc {
   font-size: 20px;
   margin-top: 15px;
-  color: rgba(255, 255, 255, 0.9);
+  color: black;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
