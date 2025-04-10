@@ -489,7 +489,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   font-family: 'Be Vietnam', 'sans-serif';
-  color: #f2b2d1;
+  color: black;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1124,7 +1124,7 @@ body {
 }
 
 .bg-dark {
-  background-color: #ec88bfc1 !important;
+  background-color: #FFD3D3 !important;
 }
 
 .bg-gray {
@@ -1140,7 +1140,7 @@ body {
 }
 
 .bg-dark-opacity {
-  background-color: rgba(235, 114, 181, 0.877) !important;
+  background-color: rgba(255, 211, 211, 0.877) !important;
 }
 
 .bg-fixed {
@@ -1165,15 +1165,15 @@ body {
 }
 
 .bg-1 {
-  background-color: #c97989 !important;
+  background-color: #FF80A6 !important;
 }
 
 .bg-2 {
-  background-color: #28d5a7 !important;
+  background-color: #F5BFC1 !important;
 }
 
 .bg-3 {
-  background-color: #f9b851 !important;
+  background-color: #FFCCDA !important;
 }
 
 .bg-4 {
@@ -2018,12 +2018,12 @@ body {
 }
 
 .gradient-btn {
-  background: linear-gradient(270deg, #9f8fff, #7b68ee);
+  background: linear-gradient(270deg, #AF6F79, #AF6F79);
   position: relative;
   color: #fff;
-  -webkit-box-shadow: 0 5px 25px rgba(123, 104, 238, 0.3);
-  -moz-box-shadow: 0 5px 25px rgba(123, 104, 238, 0.3);
-  box-shadow: 0 5px 25px rgba(123, 104, 238, 0.3);
+  /*-webkit-box-shadow: 0 5px 25px #AF6F79;
+  -moz-box-shadow: 0 5px 25px #AF6F79;
+  box-shadow: 0 5px 25px #AF6F79;*/
 }
 
 .gradient-btn::before {
@@ -2036,7 +2036,7 @@ body {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  background: linear-gradient(270deg, #E78282, #E78282);
+  background: linear-gradient(270deg, #AF6F79, #AF6F79);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
