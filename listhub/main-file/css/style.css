@@ -1642,7 +1642,7 @@ body {
 
 /*=== text color ====*/
 .text-gray {
-  color: #808996 !important;
+  color: #090909 !important;
 }
 
 .text-color {
@@ -4804,7 +4804,7 @@ div.datedropper .picker .pick-lg-b li {
   font-size: 100px;
   color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: rgba(255, 255, 255, 0.1);
+  -webkit-text-stroke-color: rgba(12, 12, 12, 0.1);
 }
 
 .blockquote-item .blockquote__text {
