@@ -4811,7 +4811,7 @@ div.datedropper .picker .pick-lg-b li {
   line-height: 30px;
   font-weight: 500;
   font-style: italic;
-  color: #fff;
+  color: #070707;
 }
 
 .blockquote-item .blockquote__meta {
@@ -4821,7 +4821,7 @@ div.datedropper .picker .pick-lg-b li {
   display: flex;
   -ms-flex-align: center;
   align-items: center;
-  color: #fff;
+  color: #101010;
   font-size: 30px;
 }
 
@@ -5388,7 +5388,7 @@ div.datedropper .picker .pick-lg-b li {
   position: absolute;
   left: 15px;
   top: 20px;
-  color: #fff;
+  color: #060606;
   font-size: 18px;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -5637,7 +5637,7 @@ div.datedropper .picker .pick-lg-b li {
 
 /*======== login-and-signup-wrap =========*/
 .login-and-signup-wrap a {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(14, 13, 13, 0.8);
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
@@ -5647,7 +5647,7 @@ div.datedropper .picker .pick-lg-b li {
 }
 
 .login-and-signup-wrap a:hover {
-  color: #fff;
+  color: #0b0b0b;
 }
 
 /*======== main-menu-content =========*/
