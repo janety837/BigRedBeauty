@@ -2019,7 +2019,7 @@ body {
 
 .gradient-btn {
   background: linear-gradient(270deg, #AF6F79, #AF6F79);
-  position: relative;
+  position: center;
   color: #fff;
   /*-webkit-box-shadow: 0 5px 25px #AF6F79;
   -moz-box-shadow: 0 5px 25px #AF6F79;
