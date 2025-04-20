@@ -7820,7 +7820,7 @@ div.datedropper .picker .pick-lg-b li {
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .card-item-list .card-image .card__img {
-    height: auto;
+    height: 313px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
@@ -7829,7 +7829,7 @@ div.datedropper .picker .pick-lg-b li {
 
 @media only screen and (min-width: 320px) and (max-width: 479px) {
   .card-item-list .card-image .card__img {
-    height: auto;
+    height: 313px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
