@@ -1149,7 +1149,7 @@ body {
 
 /*===== gradient bg ======*/
 .bg-gradient-1 {
-  background-image: linear-gradient(45deg, #5065cd 0%, #c366bd 100%) !important;
+  background-image: linear-gradient(45deg, #5065cd 0%, #ebe3ea 100%) !important;
 }
 
 .bg-gradient-2 {
@@ -1275,7 +1275,7 @@ body {
 }
 
 .svg-icon-color path {
-  fill: #c97989;
+  fill: #e9e1e2;
 }
 
 .svg-icon-color-2 path {
