@@ -1275,7 +1275,7 @@ body {
 }
 
 .svg-icon-color path {
-  fill: #e9e1e2;
+  fill: #c97989;
 }
 
 .svg-icon-color-2 path {
@@ -2019,7 +2019,7 @@ body {
 
 .gradient-btn {
   background: linear-gradient(270deg, #AF6F79, #AF6F79);
-  position: center;
+  position: relative;
   color: #fff;
   /*-webkit-box-shadow: 0 5px 25px #AF6F79;
   -moz-box-shadow: 0 5px 25px #AF6F79;
@@ -2027,7 +2027,7 @@ body {
 }
 
 .gradient-btn::before {
-  position: center;
+  position: absolute;
   content: "";
   top: 0;
   left: 0;
@@ -2182,6 +2182,20 @@ body {
   background-color: #7b68ee !important;
 }
 
+.hover-text {
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+  color: black;
+  background-color: #FDE9EB;
+  padding: 10px;
+  border-radius: 0px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  text-align: center;
+}
+
 .fixed-btn {
   position: fixed;
   top: 30%;
@@ -2198,6 +2212,10 @@ body {
   -o-transition: all 0.3s;
   transition: all 0.3s;
   font-weight: 600;
+}
+
+.card-image:hover .hover-text {
+  opacity: 1;
 }
 
 .fixed-btn:hover {
@@ -4811,7 +4829,7 @@ div.datedropper .picker .pick-lg-b li {
   line-height: 30px;
   font-weight: 500;
   font-style: italic;
-  color: #070707;
+  color: #fff;
 }
 
 .blockquote-item .blockquote__meta {
@@ -4821,7 +4839,7 @@ div.datedropper .picker .pick-lg-b li {
   display: flex;
   -ms-flex-align: center;
   align-items: center;
-  color: #101010;
+  color: #fff;
   font-size: 30px;
 }
 
@@ -5388,7 +5406,7 @@ div.datedropper .picker .pick-lg-b li {
   position: absolute;
   left: 15px;
   top: 20px;
-  color: #060606;
+  color: #fff;
   font-size: 18px;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -5637,7 +5655,7 @@ div.datedropper .picker .pick-lg-b li {
 
 /*======== login-and-signup-wrap =========*/
 .login-and-signup-wrap a {
-  color: rgba(14, 13, 13, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
@@ -5647,7 +5665,7 @@ div.datedropper .picker .pick-lg-b li {
 }
 
 .login-and-signup-wrap a:hover {
-  color: #0b0b0b;
+  color: #fff;
 }
 
 /*======== main-menu-content =========*/
@@ -7820,7 +7838,7 @@ div.datedropper .picker .pick-lg-b li {
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .card-item-list .card-image .card__img {
-    height: 313px;
+    height: auto;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
@@ -7829,7 +7847,7 @@ div.datedropper .picker .pick-lg-b li {
 
 @media only screen and (min-width: 320px) and (max-width: 479px) {
   .card-item-list .card-image .card__img {
-    height: 313px;
+    height: auto;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
