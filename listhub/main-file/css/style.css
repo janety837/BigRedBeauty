@@ -1149,7 +1149,7 @@ body {
 
 /*===== gradient bg ======*/
 .bg-gradient-1 {
-  background-image: linear-gradient(45deg, #5065cd 0%, #c366bd 100%) !important;
+  background-image: linear-gradient(45deg, #5065cd 0%, #ebe3ea 100%) !important;
 }
 
 .bg-gradient-2 {
@@ -1275,7 +1275,7 @@ body {
 }
 
 .svg-icon-color path {
-  fill: #c97989;
+  fill: #e9e1e2;
 }
 
 .svg-icon-color-2 path {
@@ -2019,7 +2019,7 @@ body {
 
 .gradient-btn {
   background: linear-gradient(270deg, #AF6F79, #AF6F79);
-  position: relative;
+  position: center;
   color: #fff;
   /*-webkit-box-shadow: 0 5px 25px #AF6F79;
   -moz-box-shadow: 0 5px 25px #AF6F79;
@@ -2027,7 +2027,7 @@ body {
 }
 
 .gradient-btn::before {
-  position: absolute;
+  position: center;
   content: "";
   top: 0;
   left: 0;
@@ -7820,7 +7820,7 @@ div.datedropper .picker .pick-lg-b li {
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .card-item-list .card-image .card__img {
-    height: auto;
+    height: 313px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
@@ -7829,7 +7829,7 @@ div.datedropper .picker .pick-lg-b li {
 
 @media only screen and (min-width: 320px) and (max-width: 479px) {
   .card-item-list .card-image .card__img {
-    height: auto;
+    height: 313px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
