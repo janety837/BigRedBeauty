@@ -84,6 +84,7 @@
             - $small_mobile_five: '(max-width: 375px)';
             - $small_mobile_two: '(max-width: 320px)';
 -------------------------------------------------------------------*/
+
 /*============== loader-ripple ==============*/
 @keyframes loader-ripple {
   0% {
@@ -7443,6 +7444,7 @@ div.datedropper .picker .pick-lg-b li {
 
 .card-item .card-image {
   position: relative;
+  display: grid;
   -webkit-border-radius: 8px 8px 0 0;
   -moz-border-radius: 8px 8px 0 0;
   border-radius: 8px 8px 0 0;
